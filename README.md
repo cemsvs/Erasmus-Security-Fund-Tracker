@@ -2,7 +2,7 @@
 
 > A smart financial planning tool designed for students to bridge the gap between Erasmus grants and real-world expenses.
 
-![Project Screenshot](screenshot_placeholder)
+![Project Screenshot](screenshot.png)
 
 ## 📖 Project Overview
 Preparing for an Erasmus exchange program requires more than just a grant. Students often face startup costs (deposit, visa, flight) and monthly gaps due to exchange rate fluctuations. 
